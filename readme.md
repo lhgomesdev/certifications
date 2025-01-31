@@ -2,8 +2,7 @@
 
 Bem-vindo ao meu repositório de certificações! Aqui estão alguns dos cursos e treinamentos que concluí para aprimorar minhas habilidades em **cibersegurança, redes e desenvolvimento de software**.  
 
-## 🛠 Certificações Técnicas  
-- <a href="./Cisco_Ethical_Hacking.pdf" target="_blank">Cisco - Ethical Hacker (70h)</a>  
+## 🛠 Certificações Técnicas   
 - <a href="./Cisco_Introduction_to_Cybersecurity.pdf" target="_blank">Cisco - Introduction to Cybersecurity (6h)</a>  
 - <a href="./Cisco_Conceitos_de_Redes.pdf" target="_blank">Cisco - Conceitos Básicos de Redes (22h)</a>  
 - <a href="./IoT_Certification.pdf" target="_blank">Introdução à IoT e Transformação Digital - Cisco NetAcad (6h)</a>  
