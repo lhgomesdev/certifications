@@ -2,13 +2,14 @@
 
 Bem-vindo ao meu repositório de certificações! Aqui estão alguns dos cursos e treinamentos que concluí para aprimorar minhas habilidades em **cibersegurança, redes e desenvolvimento de software**.  
 
-## 🛠 Certificações Técnicas    
-- [Cisco - Introduction to Cybersecurity (6h)](./Cisco_Introduction_to_Cybersecurity.pdf)  
-- [Cisco - Conceitos Básicos de Redes (22h)](./Cisco_Conceitos_de_Redes.pdf)  
-- [Introdução à IoT e Transformação Digital - Cisco NetAcad (6h)](./IoT_Certification.pdf)  
+## 🛠 Certificações Técnicas  
+- <a href="./Cisco_Ethical_Hacking.pdf" target="_blank">Cisco - Ethical Hacker (70h)</a>  
+- <a href="./Cisco_Introduction_to_Cybersecurity.pdf" target="_blank">Cisco - Introduction to Cybersecurity (6h)</a>  
+- <a href="./Cisco_Conceitos_de_Redes.pdf" target="_blank">Cisco - Conceitos Básicos de Redes (22h)</a>  
+- <a href="./IoT_Certification.pdf" target="_blank">Introdução à IoT e Transformação Digital - Cisco NetAcad (6h)</a>  
 
 ## 📂 Como acessar os certificados?  
-Basta clicar no link de cada curso acima para visualizar o certificado em PDF.  
+Clique nos links acima para visualizar os certificados.  
 
-🔗 **Meu LinkedIn:** [linkedin.com/in/luiz-henrique-gomes-92089b330/](https://www.linkedin.com/in/luiz-henrique-gomes-92089b330/)  
-🔗 **Meu GitHub:** [github.com/lhgomesdev](https://github.com/lhgomesdev/)  
+🔗 <a href="https://www.linkedin.com/in/luiz-henrique-gomes-92089b330/" target="_blank">Meu LinkedIn</a>  
+🔗 <a href="https://github.com/lhgomesdev/" target="_blank">Meu GitHub</a>  
